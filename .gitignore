@@ -427,5 +427,6 @@ FodyWeavers.xsd
 
 .env
 .vscode/
-**/obj/**/**
-**/bin/**/**
+**/obj/
+**/bin/
+**/obj/Debug
